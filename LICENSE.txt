@@ -1,0 +1,72 @@
+PolyForm Noncommercial License 1.0.0
+
+Acceptance
+In order to receive this license, you must agree to its rules.
+The rules of this license are both obligations under that agreement and conditions to your license.
+You must not do anything with the licensed material that triggers a rule you cannot or will not follow.
+
+Copyright License
+The licensor grants you a copyright license to do everything you may do with the licensed material that would otherwise infringe the licensor’s copyright in it, for any noncommercial purpose, with the following exceptions:
+
+You may not sublicense the licensed material.
+
+You may not use the licensed material for commercial purposes.
+
+Noncommercial Purposes
+Noncommercial purposes include:
+
+research
+
+experimentation
+
+personal study
+
+teaching
+
+private use
+
+hobby projects
+
+academic work
+
+Noncommercial purposes do not include:
+
+providing the licensed material to others for a fee
+
+using the licensed material in a business
+
+using the licensed material in a product or service
+
+using the licensed material to generate revenue
+
+using the licensed material for any commercial advantage
+
+No Commercial Use
+You must not use the licensed material for commercial purposes.
+
+Commercial purposes include:
+
+using the licensed material in any revenue‑generating product or service
+
+using the licensed material in any business or enterprise
+
+using the licensed material internally within a for‑profit organization
+
+using the licensed material to provide paid services
+
+using the licensed material to develop commercial offerings
+
+If you wish to make commercial use of the licensed material, you must obtain a separate commercial license from:
+
+Patrick D. Nyhan  
+Licensor and copyright holder
+
+Notices
+You must keep all copyright notices, license notices, and disclaimers of warranty intact in all copies of the licensed material.
+
+No Liability
+As far as the law allows, the licensed material comes as‑is, without any warranty at all.  
+The licensor is not liable to you for any damages related to your use of the licensed material.
+
+Termination
+If you do not follow the rules of this license, your rights under this license end automatically.
